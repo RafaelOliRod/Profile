@@ -10,9 +10,9 @@
 
 💡 Áreas de Especialização:
 
- Data Science
- Big Data
- Machine Learning
+    Data Science
+    Big Data
+    Machine Learning
 
 🌐 Objetivo Profissional: Busco oportunidades para aplicar meu conhecimento em dados e desenvolver soluções impactantes. Estou comprometido em contribuir para projetos inovadores que impulsionem a tomada de decisões informadas.
 
