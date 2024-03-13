@@ -1,3 +1,28 @@
+### English Profile ###
+
+🚀 Professional in Transition | Data Science | Big Data | Machine Learning
+
+👋 Hello! I'm Rafael Rodrigues, a career transition enthusiast focused on the Data Science, Big Data, and Machine Learning universe.
+
+🔍 Technical Skills: Proficient in Python programming, with a strong emphasis on Pandas and NumPy. I am consistently investing in developing skills in Data Science and aim to apply my knowledge to challenging projects.
+
+📚 Academic Background: Currently pursuing a degree in Electrical Engineering, providing a solid foundation that complements my interest in complex data and analyses.
+
+💡 Areas of Specialization:
+
+    Data Science
+    Big Data
+    Machine Learning
+
+🌐 Professional Objective: Seeking opportunities to apply my data knowledge and develop impactful solutions. I am committed to contributing to innovative projects that drive informed decision-making.
+
+🤝 Networking and Collaborations: Open to valuable connections, mentorship, and collaborations that enrich my professional journey. I value the exchange of ideas and experiences.
+
+📧 Contact: Feel free to connect through LinkedIn or send a message to rafael.or@gmail.com.
+
+Let's build the future of data together! 📊✨
+
+
 ### Perfil ###
 
 🚀 Profissional em Transição | Data Science | Big Data | Machine Learning
@@ -22,26 +47,3 @@
 
 Vamos construir o futuro dos dados juntos! 📊✨
 
-### English Profile ###
-
-🚀 Professional in Transition | Data Science | Big Data | Machine Learning
-
-👋 Hello! I'm Rafael Rodrigues, a career transition enthusiast focused on the Data Science, Big Data, and Machine Learning universe.
-
-🔍 Technical Skills: Proficient in Python programming, with a strong emphasis on Pandas and NumPy. I am consistently investing in developing skills in Data Science and aim to apply my knowledge to challenging projects.
-
-📚 Academic Background: Currently pursuing a degree in Electrical Engineering, providing a solid foundation that complements my interest in complex data and analyses.
-
-💡 Areas of Specialization:
-
-    Data Science
-    Big Data
-    Machine Learning
-
-🌐 Professional Objective: Seeking opportunities to apply my data knowledge and develop impactful solutions. I am committed to contributing to innovative projects that drive informed decision-making.
-
-🤝 Networking and Collaborations: Open to valuable connections, mentorship, and collaborations that enrich my professional journey. I value the exchange of ideas and experiences.
-
-📧 Contact: Feel free to connect through LinkedIn or send a message to rafael.or@gmail.com.
-
-Let's build the future of data together! 📊✨
